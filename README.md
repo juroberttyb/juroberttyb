@@ -43,7 +43,7 @@
         src="https://img.shields.io/badge/hardhat-DD0031?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
 </p> -->
 
-### 🛠 Cloud platform and Devops tools
+### 🛠 OS, Framework and Tools
 
 <p>
     <a href="https://ubuntu.com" target="_blank"><img alt="ubuntu"
