@@ -47,6 +47,10 @@
 ### 🛠 OS, Framework and Tools
 
 <p>
+    <a href="https://reactjs.org" target="_blank"><img alt="React.js"
+        src="https://img.shields.io/badge/React.js-DD0031?style=for-the-badge&logo=React.js&logoColor=white"/></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-342B029.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>
     <a href="https://ubuntu.com" target="_blank"><img alt="ubuntu"
         src="https://img.shields.io/badge/ubuntu-CB3837?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
     <a href="https://www.debian.org" target="_blank"><img alt="Debian"
