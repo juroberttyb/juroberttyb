@@ -1,6 +1,6 @@
 <p> 
-    <a href="https://juroberttyb.github.io" target="_blank"><img alt="website"
-        src="https://img.shields.io/badge/website-CB3837?style=for-the-badge&logo=website&logoColor=white"/></a>
+<!--     <a href="https://juroberttyb.github.io" target="_blank"><img alt="website"
+        src="https://img.shields.io/badge/website-CB3837?style=for-the-badge&logo=website&logoColor=white"/></a> -->
     <a href="https://discordapp.com/users/jurobert#7927" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/robert-ju-5b66081a9/" target="_blank"><img alt="LinkedIn"
